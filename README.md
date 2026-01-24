@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m trying to get a feel for what hyperbolic embeddings assume about social networks, and where that lines up — or doesn't — with social meaning.
+I’m trying to get a feel for what hyperbolic embeddings assume about social networks, and where that lines up with social meaning.
 <!--
 **trangtinkers/trangtinkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
