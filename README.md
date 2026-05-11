@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I’m trying to get a feel for what hyperbolic embeddings assume about social networks, and where that lines up with social meaning.
+There's this rule from __Inventing on Principle__ that says creators need an immediate connection with what they're interacting with. And the way we connect with complex systems is through representations, because representations allow us to think powerfully about systems. They allow us to manipulate the system and to see it.
 
-I learn stuff by building boring tiny tools.
 <!--
 **trangtinkers/trangtinkers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
