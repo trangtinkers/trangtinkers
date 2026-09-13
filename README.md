@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currently building boring tiny tools (narrow-scoped software that seamlessly integrates with existing workflows)
+
 There's this rule from __Inventing on Principle__ that says creators need an immediate connection with what they're interacting with. And the way we connect with complex systems is through representations, because representations allow us to think powerfully about systems. They allow us to manipulate the system and to see it.
 
 <!--
